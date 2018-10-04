@@ -1,0 +1,26 @@
+{
+  "name": "NYT-REACT-SEARCH",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malak55/NYT-REACT-SEARCH.git"
+  },
+  "author": "Matt <moldycrow55@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/Malak55/NYT-REACT-SEARCH/issues"
+  },
+  "homepage": "https://github.com/Malak55/NYT-REACT-SEARCH#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6",
+    "node": "^10.11.0",
+    "react": "^16.5.2"
+  }
+}
